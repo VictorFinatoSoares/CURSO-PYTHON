@@ -1,0 +1,10 @@
+# Exercício Python 51: Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+
+num = int(input('Informe o primeiro termo: '))
+razao = int(input('Informe a razão: '))
+
+for i in range(10):
+    print(f'{num}', end=' -> ')
+    num += razao
+
+print('FIM')
