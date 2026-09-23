@@ -12,7 +12,7 @@ A ideia é avançar mundo por mundo, sempre estudando a teoria antes de partir p
 | Mundo | Tema                    | Status |
 | ----- | ----------------------- | ------ |
 | 01    | Fundamentos             | ☑️     |
-| 02    | Estruturas de controle  | ⬜     |
+| 02    | Estruturas de controle  | ☑️     |
 | 03    | Estruturas Compostas    | ⬜     |
 | 04    | POO (Objetos e Classes) | ⬜     |
 
