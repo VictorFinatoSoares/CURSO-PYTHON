@@ -5,3 +5,9 @@ def fatorial(num):
         fat *= i
 
     return fat
+
+def dobro(num):
+    return num * 2
+
+def triplo(num):
+    return num * 3
